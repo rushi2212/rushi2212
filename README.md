@@ -1,6 +1,10 @@
 # 💫 About Me:
-I'm currently working on:<br>AI-powered web applications and smart system projects.<br><br>I'm looking to collaborate on:<br>AI, Full Stack Web Development, and Open Source projects.<br><br>I'm looking for help with:<br>Advanced AI integration and scalable backend systems.<br><br>I'm currently learning:<br>Agentic AI, Full Stack Development, and DSA.<br><br>Ask me about:<br>React, MERN Stack, APIs, AI apps, and Web Development.<br><br>Fun fact:<br>I enjoy building smart solutions from real-world problems 🚀
-
+AI & Full Stack Developer building smart web applications 🚀<br><br>
+💻 Working on:<br>AI-powered systems<br><br>
+🤝 Open to collaborations in:<br>AI & Web Development<br><br>
+🌱 Currently learning:<br>Agentic AI & DSA<br><br>
+💬 Ask me about:<br>React, MERN Stack & APIs<br><br>
+⚡ Fun fact:<br>I turn ideas into intelligent solutions
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/rushikeshraut2212) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rushikesh220703@gmail.com) 
