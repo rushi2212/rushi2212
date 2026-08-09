@@ -7,7 +7,6 @@
 </a>
 
 <br/>
-<br/>
 
 ![Degree](https://img.shields.io/badge/B.E.-Computer%20Engineering-FFB300?style=flat-square&labelColor=0D0D0D)
 ![University](https://img.shields.io/badge/GCOEARA-Pune-FF6F00?style=flat-square&labelColor=0D0D0D)
@@ -270,7 +269,7 @@ An AI agent that generates, personalizes, and automatically sends emails based o
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=rushi2212&theme=gruvbox&column=7&margin-w=8&margin-h=8&no-frame=true&no-bg=false)
+![Trophies](https://github-profile-trophy.vercel.app/?username=rushi2212&theme=gruvbox&column=7&margin-w=8&margin-h=8&no-frame=true)
 
 </div>
 
