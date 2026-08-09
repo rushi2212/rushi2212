@@ -7,6 +7,7 @@
 </a>
 
 <br/>
+<br/>
 
 ![Degree](https://img.shields.io/badge/B.E.-Computer%20Engineering-FFB300?style=flat-square&labelColor=0D0D0D)
 ![University](https://img.shields.io/badge/GCOEARA-Pune-FF6F00?style=flat-square&labelColor=0D0D0D)
