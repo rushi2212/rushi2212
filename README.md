@@ -306,10 +306,10 @@ An AI agent that generates, personalizes, and automatically sends emails based o
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/rushi2212/rushi2212/output/github-contribution-grid-snake-dark.svg)
 </div>
 
-![Snake animation](https://raw.githubusercontent.com/rushi2212/rushi2212/output/github-contribution-grid-snake.svg).
+![Snake animation](https://raw.githubusercontent.com/rushi2212/rushi2212/output/github-contribution-grid-snake-dark.svg)
+
 
 <br/>
 
