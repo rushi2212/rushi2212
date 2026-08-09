@@ -216,6 +216,10 @@ An AI agent that generates, personalizes, and automatically sends emails based o
 
 | Achievement | Detail |
 |---|---|
+| 🥇 **Winner** — PVG HackHub | National Level Hackathon · Web Development Domain · Oct 2025 |
+| 🥈 **2nd Place** — Hackron 2.0 | AgriTech Domain · Ajeenkya DYP University · Jan 2026 |
+| 🏅 **Special Prize** — Hack Your Path 6.0 | FinTech Theme · May 2025 |
+| 🏁 **Finalist** — HACKSAGON 2025 | ABV-IIITM Gwalior · Top team among 600+ participants · Jun 2025 |
 | 🎓 Academic Performance | CGPA **9.32 / 10** in Computer Engineering |
 | 🚀 Shipped Products | 6 full-stack / AI projects built and deployed (CureHub, MindSpace, Crop Calendar, AI agents) |
 | 📜 Certifications Completed | 8 certifications across AI, MERN, automation, and API fundamentals |
